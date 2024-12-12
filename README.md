@@ -3,7 +3,8 @@
 ## 🎯 Project Overview  
 Ever wondered how the wealth of nations stacks up? 💰 In this project, I dove into the *Wealth of Nations* dataset, cleaned it up 🧹, and turned raw numbers into insightful stories through stunning visualizations 📊. Using Microsoft Excel for data wrangling and Tableau for visual storytelling, I crafted an interactive dashboard that makes exploring economic data *fun and accessible*!  
 
-![Link to my Dashboard](https://public.tableau.com/app/profile/yusuf1911/viz/WealthofNationsDashboard_16825854613080/Dashboard1) 
+<iframe src="https://public.tableau.com/views/WealthofNationsDashboard_16825854613080/Dashboard1?:showVizHome=no&:embed=true" 
+        width="800" height="600"></iframe>
 
 ---
 
