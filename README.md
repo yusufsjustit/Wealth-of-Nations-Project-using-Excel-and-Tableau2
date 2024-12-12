@@ -24,8 +24,6 @@ Ever wondered how the wealth of nations stacks up? 💰 In this project, I dove 
 - 🌎 **Regional Comparisons**: Dive into wealth disparities and population insights.  
 - 🔍 **Key Indicators**: Uncover what drives wealth in different nations.  
 
-![Sample Visualization](https://via.placeholder.com/800x400?text=Insert+Visualization+Image+Here)  
-
 ---
 
 ## 🚀 How to Explore  
